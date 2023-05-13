@@ -17,5 +17,7 @@ the quantity of a product in their cart.
 4. Used some Animations 
 5. Their is Header, Footer ,sidebar, navigation bar etc in this ecomup website.
 6. its very simple and user friendly.
+7. the app is compatable with any device (bootstrap)
+
 
 
